@@ -1,7 +1,7 @@
 # Read.me
 <html>
   <head>
-     <h1> Olá, eu sou a Nicole!  </h1> <br>
+     <h1 style="color:pink;"> Olá, eu sou a Nicole!  </h1> <br>
 Atualmente Trader no mercado de derivativos, entusiasta em De-Fis e aprendiz em Desenvolvimento Web. <br>
 
 Minha trajetória profissional é diversificada, abrangendo áreas como ensino, vendas, finanças, marketing, organização e planejamento. Essas experiências me equiparam com habilidades valiosas para trabalhar de forma autônoma e confiante em diferentes contextos. Estou sempre buscando me aperfeiçoar e entender profundamente como resolver e prevenir problemas. <br>
